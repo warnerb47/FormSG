@@ -56,3 +56,16 @@ Ensure that on startup, `brew` is added to the environment variables and `~/.bas
 export PATH=/opt/homebrew/bin:$PATH
 source ~/.bash_profile
 ```
+
+On windows try to run npm install on each project folder:
+
+- shared
+- frontend
+- serverless\virus-scanner
+
+## `npm install` error for serverless\virus-scanner on windows
+
+If you a having error while installing `aws-lambda-ric` due to `preinstall.sh` script you can ignore script using the following command in serverless\virus-scanner folder:
+`npm install --ignore-scripts`
+
+(not recommended for production, may cause runtime issues if aws-lambda-ric needs the script to work)
