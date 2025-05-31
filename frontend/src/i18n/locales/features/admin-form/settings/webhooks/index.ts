@@ -1,6 +1,7 @@
 import { type HasTitle } from '..'
 
 export * from './en-sg'
+export * from './fr-sg'
 
 export interface Webhooks extends HasTitle {
   input: {

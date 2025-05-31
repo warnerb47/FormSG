@@ -1,6 +1,7 @@
 import { LogicConditionState } from '~shared/types'
 
 export * from './en-sg'
+export * from './fr-sg'
 
 export interface Logic {
   title: string

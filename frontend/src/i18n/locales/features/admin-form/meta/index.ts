@@ -1,6 +1,7 @@
 import { FormResponseMode } from '~shared/types'
 
 export * from './en-sg'
+export * from './fr-sg'
 
 export interface Meta {
   prettyLastModified: string

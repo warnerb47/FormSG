@@ -76,6 +76,7 @@ export enum FormAuthType {
 
 export enum Language {
   ENGLISH = 'en-SG',
+  FRENCH = 'fr-SG',
   CHINESE = 'zh-SG',
   MALAY = 'ms-SG',
   TAMIL = 'ta-SG',

@@ -1,5 +1,6 @@
 export * from './en-sg'
 export { type Fields } from './fields'
+export * from './fr-sg'
 export { type HeaderAndInstructions } from './header-and-instructions'
 export { type Logic } from './logic'
 export { type ThankYou } from './thank-you'

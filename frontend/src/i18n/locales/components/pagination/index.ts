@@ -11,3 +11,4 @@ export interface Pagination {
 }
 
 export * from './en-sg'
+export * from './fr-sg'

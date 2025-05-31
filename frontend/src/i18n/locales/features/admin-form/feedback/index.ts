@@ -1,4 +1,5 @@
 export * from './en-sg'
+export * from './fr-sg'
 
 export interface Feedback {
   emptyFeedback: {

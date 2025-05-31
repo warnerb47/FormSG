@@ -3,6 +3,7 @@ import { General } from './general'
 import { Webhooks } from './webhooks'
 
 export * from './en-sg'
+export * from './fr-sg'
 
 export type HasTitle = {
   title: string
