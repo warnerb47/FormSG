@@ -1,6 +1,7 @@
 import { CreateModal } from './create'
 
 export * from './en-sg'
+export * from './fr-sg'
 
 interface Modal {
   title: string
