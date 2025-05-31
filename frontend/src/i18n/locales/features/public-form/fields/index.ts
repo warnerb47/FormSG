@@ -57,6 +57,7 @@ export interface Fields {
 }
 
 export * from './en-sg'
+export * from './fr-sg'
 export * from './ms-sg'
 export * from './ta-sg'
 export * from './zh-sg'

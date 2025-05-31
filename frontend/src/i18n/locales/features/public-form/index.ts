@@ -2,6 +2,7 @@ import { Fields } from './fields'
 import { Table } from './table'
 
 export * from './en-sg'
+export * from './fr-sg'
 
 export interface PublicForm {
   errors: {
