@@ -1,4 +1,5 @@
 export * from './en-sg'
+export * from './fr-sg'
 export * from './zh-sg.example'
 
 export interface Login {
