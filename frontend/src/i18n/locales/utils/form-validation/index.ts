@@ -22,3 +22,4 @@ export interface FormValidation {
 }
 
 export * from './en-sg'
+export * from './fr-sg'
